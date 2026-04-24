@@ -1,0 +1,57 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+.directory
+.Trash-*
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.cursor/
+
+# Node modules（将来使うかもしれない）
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# 一時ファイル
+*.log
+*.tmp
+*.bak
+*.backup
+
+# 画像編集の中間ファイル
+*.psd
+*.ai
+*.sketch
+*.fig
+
+# ローカル環境設定
+.env
+.env.local
+*.local
+
+# OS生成ファイル
+*.lnk
